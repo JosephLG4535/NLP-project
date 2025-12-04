@@ -1,6 +1,6 @@
 # NLP-project Customer Feedback Sentiment Analytics (Dashboard + ML Pipeline)
 
-This repository contains files used in a self-made NLP-based project. 
+This repository contains files used in a self-made project. 
 This project utilizes tools such as Python, Dash, Plotly, PostgreSQL and more to perform general end-to-end data science workflow process.
 This project processes customer feedback data to analyze sentiment patterns using BERT-based NLP modeling. It includes a full interactive Plotly Dash dashboard for exploratory data analysis, word analysis, geographical insights, and time-based sentiment trends etc.
 
